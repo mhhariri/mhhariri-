@@ -1,7 +1,7 @@
 
 
 <!-- Header -->
-![Header]( https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HARIRI )
+![Header]( https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00d4ff,100:0072ff&text=HARIRI )
 ### 👋 Hi there! Welcome to my GitHub
 
 I am an **AI Engineer & Researcher** specializing in **Deep Learning, Computer Vision, Brain–Computer Interface (BCI), and Intelligent Systems Development**.  
