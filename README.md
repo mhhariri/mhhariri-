@@ -15,7 +15,7 @@ My research focuses on:
 
 I enjoy combining **theoretical AI concepts** with **real-world implementations**, especially in **data-driven intelligent systems**.
 
----
+
 
 ## 🚀 Highlighted Projects
 
@@ -40,7 +40,7 @@ I enjoy combining **theoretical AI concepts** with **real-world implementations*
 - 🖼️ **Backend Development with ASP.NET Core 9 (MVC)**  
   Clean Architecture–based image generation system.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +54,7 @@ I enjoy combining **theoretical AI concepts** with **real-world implementations*
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -64,7 +64,7 @@ I enjoy combining **theoretical AI concepts** with **real-world implementations*
   <a href="https://t.me/mhosseinhi"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://wa.me/+989917473617"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
----
+
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0072ff&height=120&section=footer)
