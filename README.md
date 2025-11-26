@@ -15,33 +15,6 @@ My research focuses on:
 
 I enjoy combining **theoretical AI concepts** with **real-world implementations**, especially in **data-driven intelligent systems**.
 
-
-
-## 🚀 Highlighted Projects
-
-- 🔍 **Vehicle Damage Detection System (YOLO-based)**  
-  Intelligent system for detecting damaged regions and estimating severity levels.
-
-- 🦷 **OPG Dental Abnormality Detection**  
-  Real-time object detection model for identifying suspicious regions in panoramic dental images.
-
-- 🎨 **Image Reconstruction with Gated-GAN + Attention**  
-  *Under review in Smart City International Conference.*
-
-- 🎨 **Pix2Pix with Attention for Image Restoration**  
-  *Accepted at IPRIA 2025.*
-
-- 🧠 **Motor Imagery EEG Classification (CNN + Bi-LSTM)**  
-  *Under peer review.*
-
-- 🎛 **Network Cable Color Sequence Quality Control (Computer Vision)**  
-  Automated visual inspection using classical CV + DL models.
-
-- 🖼️ **Backend Development with ASP.NET Core 9 (MVC)**  
-  Clean Architecture–based image generation system.
-
-
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
